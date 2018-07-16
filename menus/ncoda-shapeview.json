@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ncoda-shapeview",
+        "command": "ncoda-shapeview:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ncoda-shapeview",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ncoda-shapeview:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
