@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ncoda-shapeview:toggle"
   },
-  "repository": "https://github.com/nCoda/atom-ncoda-shapeview.git",
+  "repository": "https://github.com/nCoda/atom-shapeview.git",
   "license": "LGPLv3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
